@@ -5,4 +5,7 @@ webbutveckling 🏁
 Git and GitHub 🔥
 Javascript 🥬
 CSS 💚
+SQL
+Azure
+DevOps
 
